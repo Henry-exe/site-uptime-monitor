@@ -9,6 +9,7 @@ override.tf
 override.tf.json
 *.backup
 *.log
+*.hcl
 
 # Python
 __pycache__/
